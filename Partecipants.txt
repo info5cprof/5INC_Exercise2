@@ -1,7 +1,8 @@
 First name; Last Name; Email address
 
-Francisco; Guarnieri; franzguarnieri148@gmail.com
 Daniele; Rossi; rossi.daniele1999@gmail.com
 Simone; Postal;simone.postal@buonarroti.tn.it
 Samuele; Bortolotti;samu.bortolotti@gmail.com
 Francisco; Guarnieri; franzguarnieri148@gmail.com
+Michele; Coletti; michele.coletti98@gmail.com
+
