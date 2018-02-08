@@ -1,11 +1,10 @@
 First name; Last Name; Email address
-<<<<<<< Temporary merge branch 1
-Daniele; Rossi; rossi.daniele1999@gmail.com
-Samuele Bortolotti samu.bortolotti@gmail.com
-=======
-Daniele; Rossi; rossi.daniele1999@gmail.com; Samuele Bortolotti samu.bortolotti@gmail.com
->>>>>>> Temporary merge branch 2
+
+
 
 Daniele; Rossi; rossi.daniele1999@gmail.com
+
 Simone; Postal;simone.postal@buonarroti.tn.it
+
 Samuele; Bortolotti;samu.bortolotti@gmail.com
+Michele; Coletti; michele.coletti98@gmail.com
