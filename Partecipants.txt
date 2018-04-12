@@ -1,5 +1,9 @@
 First name; Last Name; Email address
+
 Daniele; Rossi; rossi.daniele1999@gmail.com
 Simone; Postal;simone.postal@buonarroti.tn.it
 Samuele; Bortolotti;samu.bortolotti@gmail.com
+Michele; Coletti; michele.coletti98@gmail.com
+Francesco; Zanon; info5c.francescozanon@gmail.com
+Francisco; Guarnieri; franzguarnieri148@gmail.com
 Mattia; Albasini; mattia.albasini@buonarroti.tn.it
